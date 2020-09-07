@@ -10,6 +10,6 @@ of example environments (in `Examples`).
 
 
 # 환경
-*Anaconda3
-*Unity 2017.4.38f1
-*visual studio 2017
+* Anaconda3
+* Unity 2017.4.38f1
+* visual studio 2017
